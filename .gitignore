@@ -1,0 +1,5 @@
+.build_venv/
+build/
+dist/
+__pycache__/
+界面预览.png
