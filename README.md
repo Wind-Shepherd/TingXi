@@ -10,10 +10,10 @@
 
 ## 下载
 
-在 [Releases](https://github.com/Wind-Shepherd/TingXi/releases/latest) 下载 `TingXi-Windows.zip`，解压到自己选择的位置，保留整个 `TingXi` 文件夹，再双击其中的 `TingXi.exe`。运行时需要本机有 Edge；没有 Edge 时会尝试用默认浏览器打开。
+在 [Releases](https://github.com/Wind-Shepherd/TingXi/releases/latest) 下载 `TingXi.exe`，双击运行时需要本机有 Edge；没有 Edge 时会尝试用默认浏览器打开。
 
 
-程序页面随文件夹保存，不会复制到 `%LOCALAPPDATA%\TingXi`。音频仍然只在本机读取，不会上传。浏览器和 Windows 自身可能使用各自的系统缓存。
+程序页面会复制到 `%LOCALAPPDATA%\TingXi`。音频仍然只在本机读取，不会上传。浏览器和 Windows 自身可能使用各自的系统缓存。
 
 ## 播放操作
 
