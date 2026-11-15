@@ -3,3 +3,8 @@ build/
 dist/
 __pycache__/
 界面预览.png
+打包EXE.bat
+启动播放器.bat
+desktop.py
+TingXi.spec
+生成封面.ps1
